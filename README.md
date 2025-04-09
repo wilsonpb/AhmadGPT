@@ -59,8 +59,8 @@ Built using cutting-edge AI tools and trained with a custom dataset, Ahmad GPT i
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/Ahmadjamil888/ahmadgpt
-cd ahmadgpt
+git clone https://github.com/Ahmadjamil888/AhmadGPT
+cd AhmadGPT
 
 # Install backend dependencies
 pip install -r requirements.txt
