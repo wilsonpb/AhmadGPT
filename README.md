@@ -29,7 +29,8 @@ Built using cutting-edge AI tools and trained with a custom dataset, Ahmad GPT i
 ## 🖼️ UI Preview
 
 <p align="center">
-  <img src="https://your-image-link.com/ahmad-gpt-ui.png" alt="Ahmad GPT UI" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/eda13225-b72d-444a-b0cf-d0254a7cbcfd"
+ alt="Ahmad GPT UI" width="80%"/>
 </p>
 
 ---
