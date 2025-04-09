@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 3rem;">🚀✨ Ahmad GPT</h1>
 <p align="center">
-  <img src="image.png" alt="Ahmad GPT Banner" width="100%"/>
+  <img src="https://images.pexels.com/photos/8849295/pexels-photo-8849295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="AI" width="100%"/>
 </p>
 
 <h2 align="center">An AI so powerful, it thinks, speaks, codes, and creates like a human.</h2>
